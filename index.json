@@ -1,5 +1,26 @@
 {
-  "free": [],
-  "updated_at": "2026-03-31T16:48:50.354278400+00:00",
+  "free": [
+    {
+      "download_url": "https://github.com/blootapp/qooti-collections/releases/download/collections-v1/movie-titles.qooti",
+      "file_size_mb": 0.1,
+      "id": "movie-titles",
+      "item_count": 10,
+      "meta_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/movie-titles/meta.json",
+      "name": "Movie titles",
+      "name_uz": "12",
+      "preview_urls": [
+        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/movie-titles/preview-1.jpg",
+        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/movie-titles/preview-2.jpg",
+        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/movie-titles/preview-3.jpg"
+      ],
+      "role_tags": [
+        "poster",
+        "video_editor",
+        "thumbnail"
+      ],
+      "updated_at": "2026-03-31T16:51:08.018593+00:00"
+    }
+  ],
+  "updated_at": "2026-03-31T16:51:08.018597900+00:00",
   "version": "1.0.0"
 }
