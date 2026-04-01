@@ -1,23 +1,5 @@
 {
-  "free": [
-    {
-      "download_url": "https://github.com/blootapp/qooti-collections/releases/download/collections-v1/animations.qooti",
-      "file_size_mb": 0.5,
-      "id": "animations",
-      "item_count": 33,
-      "meta_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/animations/meta.json",
-      "name": "Animations",
-      "name_uz": "Animatsiyalar",
-      "preview_urls": [
-        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/animations/preview-1.jpg"
-      ],
-      "role_tags": [
-        "video_editor",
-        "motion_designer"
-      ],
-      "updated_at": "2026-04-01T07:40:55.204553200+00:00"
-    }
-  ],
-  "updated_at": "2026-04-01T07:40:55.204560500+00:00",
+  "free": [],
+  "updated_at": "2026-04-01T07:51:26.880317300+00:00",
   "version": "1.0.0"
 }
