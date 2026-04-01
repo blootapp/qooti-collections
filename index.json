@@ -36,8 +36,26 @@
         "graphic_designer"
       ],
       "updated_at": "2026-04-01T07:56:29.709077400+00:00"
+    },
+    {
+      "download_url": "https://github.com/blootapp/qooti-collections/releases/download/collections-v1/100-thumbnails.qooti",
+      "file_size_mb": 85.8,
+      "id": "100-thumbnails",
+      "item_count": 100,
+      "meta_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/100-thumbnails/meta.json",
+      "name": "100 Thumbnails",
+      "name_uz": "100 Muqova",
+      "preview_urls": [
+        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/100-thumbnails/preview-1.jpg"
+      ],
+      "role_tags": [
+        "image",
+        "graphic_designer",
+        "thumbnail"
+      ],
+      "updated_at": "2026-04-01T07:59:35.505089500+00:00"
     }
   ],
-  "updated_at": "2026-04-01T07:56:29.709084500+00:00",
+  "updated_at": "2026-04-01T07:59:35.505096500+00:00",
   "version": "1.0.0"
 }
