@@ -1,5 +1,23 @@
 {
-  "free": [],
-  "updated_at": "2026-04-01T06:12:10.656030300+00:00",
+  "free": [
+    {
+      "download_url": "https://github.com/blootapp/qooti-collections/releases/download/collections-v1/bounce-animation.qooti",
+      "file_size_mb": 0.4,
+      "id": "bounce-animation",
+      "item_count": 30,
+      "meta_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/bounce-animation/meta.json",
+      "name": "Bounce animation",
+      "name_uz": "Bounce animation",
+      "preview_urls": [
+        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/bounce-animation/preview-1.jpg"
+      ],
+      "role_tags": [
+        "video_editor",
+        "motion_designer"
+      ],
+      "updated_at": "2026-04-01T06:23:33.982845+00:00"
+    }
+  ],
+  "updated_at": "2026-04-01T06:23:33.982850400+00:00",
   "version": "1.0.0"
 }
