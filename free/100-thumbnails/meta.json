@@ -1,0 +1,17 @@
+{
+  "created_at": "2026-04-01T07:59:13.903339200+00:00",
+  "description": "100 Thumbnails",
+  "description_uz": "100 Muqova",
+  "file_size_bytes": 85796312,
+  "file_size_mb": 85.8,
+  "id": "100-thumbnails",
+  "item_count": 100,
+  "name": "100 Thumbnails",
+  "name_uz": "100 Muqova",
+  "role_tags": [
+    "image",
+    "graphic_designer",
+    "thumbnail"
+  ],
+  "version": "1.0.0"
+}
