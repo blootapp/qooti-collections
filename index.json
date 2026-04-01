@@ -16,8 +16,28 @@
         "motion_designer"
       ],
       "updated_at": "2026-04-01T07:55:23.221512100+00:00"
+    },
+    {
+      "download_url": "https://github.com/blootapp/qooti-collections/releases/download/collections-v1/movie-titles.qooti",
+      "file_size_mb": 3.6,
+      "id": "movie-titles",
+      "item_count": 27,
+      "meta_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/movie-titles/meta.json",
+      "name": "Movie titles",
+      "name_uz": "Kino tekstlari",
+      "preview_urls": [
+        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/movie-titles/preview-1.jpg",
+        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/movie-titles/preview-2.jpg",
+        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/movie-titles/preview-3.jpg"
+      ],
+      "role_tags": [
+        "image",
+        "poster",
+        "graphic_designer"
+      ],
+      "updated_at": "2026-04-01T07:56:29.709077400+00:00"
     }
   ],
-  "updated_at": "2026-04-01T07:55:23.221518800+00:00",
+  "updated_at": "2026-04-01T07:56:29.709084500+00:00",
   "version": "1.0.0"
 }
