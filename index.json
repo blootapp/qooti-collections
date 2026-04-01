@@ -1,5 +1,25 @@
 {
-  "free": [],
-  "updated_at": "2026-04-01T04:41:50.990829100+00:00",
+  "free": [
+    {
+      "download_url": "https://github.com/blootapp/qooti-collections/releases/download/collections-v1/test.qooti",
+      "file_size_mb": 1.9,
+      "id": "test",
+      "item_count": 35,
+      "meta_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/test/meta.json",
+      "name": "test",
+      "name_uz": "test",
+      "preview_urls": [
+        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/test/preview-1.jpg",
+        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/test/preview-2.jpg",
+        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/test/preview-3.jpg"
+      ],
+      "role_tags": [
+        "poster",
+        "image"
+      ],
+      "updated_at": "2026-04-01T05:34:42.168674+00:00"
+    }
+  ],
+  "updated_at": "2026-04-01T05:34:42.168679+00:00",
   "version": "1.0.0"
 }
