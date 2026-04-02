@@ -29,6 +29,14 @@
       "updated_at": "2026-04-02T12:25:59.206976500+00:00"
     }
   ],
-  "updated_at": "2026-04-02T12:25:59.206994100+00:00",
+  "store_apply_banner": {
+    "button_title": "Apply now",
+    "button_url": "https://t.me/blootapp",
+    "description": "O'z kolleksiyangizni dasturda boshqalar bilan ulashing. Tekshiruv uchun kolleksiyangizni bizga yuboring.",
+    "poster_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/store/apply-banner.jpg",
+    "title": "Sizning kolleksiyangiz",
+    "updated_at": "2026-04-02T13:05:12.656792400+00:00"
+  },
+  "updated_at": "2026-04-02T13:05:12.656858400+00:00",
   "version": "1.0.0"
 }
