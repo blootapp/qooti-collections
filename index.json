@@ -1,6 +1,13 @@
 {
   "free": [
     {
+      "ad_button_title": "Telegram",
+      "ad_button_url": "https://t.me/blootapp",
+      "ad_description": "For more tutorials and more content join our telegram channel",
+      "ad_image_url": null,
+      "ad_mode": "youtube",
+      "ad_title": "Join our telegram channel",
+      "ad_video_url": "https://www.youtube.com/watch?v=ZPlRjqNNdXs",
       "banner_poster_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/8550e2bd-8fb3-42a4-aad3-09dc6896cbe4/banner.jpg",
       "card_poster_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/8550e2bd-8fb3-42a4-aad3-09dc6896cbe4/card.jpg",
       "download_url": "https://github.com/blootapp/qooti-collections/releases/download/collections-v1/8550e2bd-8fb3-42a4-aad3-09dc6896cbe4.qooti",
@@ -19,9 +26,9 @@
         "video_editor",
         "motion_designer"
       ],
-      "updated_at": "2026-04-02T10:36:05.559865700+00:00"
+      "updated_at": "2026-04-02T12:25:59.206976500+00:00"
     }
   ],
-  "updated_at": "2026-04-02T10:36:05.559872200+00:00",
+  "updated_at": "2026-04-02T12:25:59.206994100+00:00",
   "version": "1.0.0"
 }
