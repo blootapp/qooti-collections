@@ -1,5 +1,27 @@
 {
-  "free": [],
-  "updated_at": "2026-04-02T10:23:08.570981400+00:00",
+  "free": [
+    {
+      "banner_poster_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/8550e2bd-8fb3-42a4-aad3-09dc6896cbe4/banner.jpg",
+      "card_poster_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/8550e2bd-8fb3-42a4-aad3-09dc6896cbe4/card.jpg",
+      "download_url": "https://github.com/blootapp/qooti-collections/releases/download/collections-v1/8550e2bd-8fb3-42a4-aad3-09dc6896cbe4.qooti",
+      "file_size_mb": 29.6,
+      "id": "8550e2bd-8fb3-42a4-aad3-09dc6896cbe4",
+      "item_count": 30,
+      "meta_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/8550e2bd-8fb3-42a4-aad3-09dc6896cbe4/meta.json",
+      "name": "Smooth animations",
+      "name_uz": "Silliq animatsiyalar",
+      "preview_urls": [
+        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/8550e2bd-8fb3-42a4-aad3-09dc6896cbe4/card.jpg",
+        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/8550e2bd-8fb3-42a4-aad3-09dc6896cbe4/banner.jpg"
+      ],
+      "preview_video_url": "https://www.youtube.com/watch?v=NdILBcMAB_o",
+      "role_tags": [
+        "video_editor",
+        "motion_designer"
+      ],
+      "updated_at": "2026-04-02T10:36:05.559865700+00:00"
+    }
+  ],
+  "updated_at": "2026-04-02T10:36:05.559872200+00:00",
   "version": "1.0.0"
 }
