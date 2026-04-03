@@ -64,6 +64,16 @@
     "title": "Sizning kolleksiyangiz",
     "updated_at": "2026-04-02T13:05:35.515669600+00:00"
   },
-  "updated_at": "2026-04-03T23:46:29.362444+00:00",
+  "store_commercial_banner": {
+    "ad_button_title": "Telegram",
+    "ad_button_url": "https://t.me/blootapp",
+    "ad_description": "For more tutorials and more content join our telegram channel",
+    "ad_image_url": null,
+    "ad_mode": "youtube",
+    "ad_title": "Join our telegram channel",
+    "ad_video_url": "https://www.youtube.com/watch?v=ZPlRjqNNdXs",
+    "updated_at": "2026-04-03T23:47:57.276435200+00:00"
+  },
+  "updated_at": "2026-04-03T23:47:57.276443200+00:00",
   "version": "1.0.0"
 }
