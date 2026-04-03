@@ -1,0 +1,15 @@
+{
+  "created_at": "2026-04-03T23:40:01.689151600+00:00",
+  "description": "1",
+  "description_uz": "1",
+  "file_size_bytes": 47844,
+  "file_size_mb": 0.1,
+  "id": "d4d6209c-8011-48cc-86a1-c70991ea39fa",
+  "item_count": 1,
+  "name": "1",
+  "name_uz": "1",
+  "role_tags": [
+    "thumbnail"
+  ],
+  "version": "1.0.0"
+}
