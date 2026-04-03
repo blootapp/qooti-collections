@@ -36,33 +36,6 @@
       "ad_mode": "none",
       "ad_title": null,
       "ad_video_url": null,
-      "banner_poster_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/d4d6209c-8011-48cc-86a1-c70991ea39fa/banner.jpg",
-      "card_poster_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/d4d6209c-8011-48cc-86a1-c70991ea39fa/card.jpg",
-      "download_url": "https://github.com/blootapp/qooti-collections/releases/download/collections-v1/d4d6209c-8011-48cc-86a1-c70991ea39fa.qooti",
-      "file_size_mb": 0.1,
-      "id": "d4d6209c-8011-48cc-86a1-c70991ea39fa",
-      "item_count": 1,
-      "meta_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/d4d6209c-8011-48cc-86a1-c70991ea39fa/meta.json",
-      "name": "1",
-      "name_uz": "1",
-      "preview_urls": [
-        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/d4d6209c-8011-48cc-86a1-c70991ea39fa/card.jpg",
-        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/d4d6209c-8011-48cc-86a1-c70991ea39fa/banner.jpg"
-      ],
-      "preview_video_url": "https://www.youtube.com/watch?v=ZPlRjqNNdXs",
-      "role_tags": [
-        "thumbnail"
-      ],
-      "updated_at": "2026-04-03T23:40:09.861066900+00:00"
-    },
-    {
-      "ad_button_title": null,
-      "ad_button_url": null,
-      "ad_description": null,
-      "ad_image_url": null,
-      "ad_mode": "none",
-      "ad_title": null,
-      "ad_video_url": null,
       "banner_poster_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/5fd361f5-a679-4b41-8aff-7642043b719c/banner.jpg",
       "card_poster_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/5fd361f5-a679-4b41-8aff-7642043b719c/card.jpg",
       "download_url": "https://github.com/blootapp/qooti-collections/releases/download/collections-v1/5fd361f5-a679-4b41-8aff-7642043b719c.qooti",
@@ -91,6 +64,6 @@
     "title": "Sizning kolleksiyangiz",
     "updated_at": "2026-04-02T13:05:35.515669600+00:00"
   },
-  "updated_at": "2026-04-03T23:46:02.895274+00:00",
+  "updated_at": "2026-04-03T23:46:29.362444+00:00",
   "version": "1.0.0"
 }
