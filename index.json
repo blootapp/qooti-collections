@@ -27,6 +27,33 @@
         "motion_designer"
       ],
       "updated_at": "2026-04-02T12:25:59.206976500+00:00"
+    },
+    {
+      "ad_button_title": null,
+      "ad_button_url": null,
+      "ad_description": null,
+      "ad_image_url": null,
+      "ad_mode": "none",
+      "ad_title": null,
+      "ad_video_url": null,
+      "banner_poster_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/03bd9186-a535-451f-b0a7-e5604d560897/banner.jpg",
+      "card_poster_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/03bd9186-a535-451f-b0a7-e5604d560897/card.jpg",
+      "download_url": "https://github.com/blootapp/qooti-collections/releases/download/collections-v1/03bd9186-a535-451f-b0a7-e5604d560897.qooti",
+      "file_size_mb": 0.1,
+      "id": "03bd9186-a535-451f-b0a7-e5604d560897",
+      "item_count": 2,
+      "meta_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/03bd9186-a535-451f-b0a7-e5604d560897/meta.json",
+      "name": "test",
+      "name_uz": "test",
+      "preview_urls": [
+        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/03bd9186-a535-451f-b0a7-e5604d560897/card.jpg",
+        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/03bd9186-a535-451f-b0a7-e5604d560897/banner.jpg"
+      ],
+      "preview_video_url": "https://www.youtube.com/watch?v=xnP7qKxwzjg",
+      "role_tags": [
+        "video_editor"
+      ],
+      "updated_at": "2026-04-03T23:02:31.364363600+00:00"
     }
   ],
   "store_apply_banner": {
@@ -37,6 +64,6 @@
     "title": "Sizning kolleksiyangiz",
     "updated_at": "2026-04-02T13:05:35.515669600+00:00"
   },
-  "updated_at": "2026-04-02T13:05:35.515677900+00:00",
+  "updated_at": "2026-04-03T23:02:31.364380500+00:00",
   "version": "1.0.0"
 }
