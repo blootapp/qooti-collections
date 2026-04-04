@@ -27,6 +27,33 @@
         "motion_designer"
       ],
       "updated_at": "2026-04-02T12:25:59.206976500+00:00"
+    },
+    {
+      "ad_button_title": null,
+      "ad_button_url": null,
+      "ad_description": null,
+      "ad_image_url": null,
+      "ad_mode": "none",
+      "ad_title": null,
+      "ad_video_url": null,
+      "banner_poster_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/c9c332d4-b278-4d0e-b03e-db4ce8173d08/banner.jpg",
+      "card_poster_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/c9c332d4-b278-4d0e-b03e-db4ce8173d08/card.jpg",
+      "download_url": "https://github.com/blootapp/qooti-collections/releases/download/collections-v1/c9c332d4-b278-4d0e-b03e-db4ce8173d08.qooti",
+      "file_size_mb": 0.1,
+      "id": "c9c332d4-b278-4d0e-b03e-db4ce8173d08",
+      "item_count": 1,
+      "meta_url": "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/c9c332d4-b278-4d0e-b03e-db4ce8173d08/meta.json",
+      "name": "2",
+      "name_uz": "2",
+      "preview_urls": [
+        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/c9c332d4-b278-4d0e-b03e-db4ce8173d08/card.jpg",
+        "https://raw.githubusercontent.com/blootapp/qooti-collections/main/free/c9c332d4-b278-4d0e-b03e-db4ce8173d08/banner.jpg"
+      ],
+      "preview_video_url": "https://www.youtube.com/watch?v=ZPlRjqNNdXs",
+      "role_tags": [
+        "image"
+      ],
+      "updated_at": "2026-04-04T00:08:29.688038300+00:00"
     }
   ],
   "store_apply_banner": {
@@ -47,6 +74,6 @@
     "ad_video_url": "https://www.youtube.com/watch?v=ZPlRjqNNdXs",
     "updated_at": "2026-04-04T00:05:11.531783900+00:00"
   },
-  "updated_at": "2026-04-04T00:05:11.531792200+00:00",
+  "updated_at": "2026-04-04T00:08:29.688044900+00:00",
   "version": "1.0.0"
 }
